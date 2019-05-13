@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAuth</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="facebook_app_id">857664154567800</string>
+    <string name="fb_login_protocol_scheme">fb857664154567800</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>

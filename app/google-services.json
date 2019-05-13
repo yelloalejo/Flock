@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811152529945",
+    "firebase_url": "https://testauth-14af6.firebaseio.com",
+    "project_id": "testauth-14af6",
+    "storage_bucket": "testauth-14af6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811152529945:android:f748f77025437d22",
+        "android_client_info": {
+          "package_name": "com.yelloalejo.testauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811152529945-ao6jfh6f277uhlrr1skorsv67oj8c9uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yelloalejo.testauth",
+            "certificate_hash": "32bbb0022fa4160928012c273ff4ec991e1b9c76"
+          }
+        },
+        {
+          "client_id": "811152529945-j0naq2c83p990p7lkgb1m8vot7o6190f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGa9rlN3xJobgAIwVVZfroN1P8TSUh90A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811152529945-j0naq2c83p990p7lkgb1m8vot7o6190f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
