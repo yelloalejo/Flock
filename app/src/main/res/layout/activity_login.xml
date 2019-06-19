@@ -10,7 +10,7 @@
         android:layout_marginBottom="5dp">
 
     <com.facebook.login.widget.LoginButton
-            android:id="@+id/login_button"
+            android:id="@+id/login_facebook"
             android:layout_width="369dp"
             android:layout_height="27dp"
             app:layout_constraintStart_toStartOf="parent"
