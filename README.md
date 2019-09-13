@@ -1,2 +1,1 @@
-# testAuth
-fb and google auth test
+# FLOCK App
